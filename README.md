@@ -1,5 +1,6 @@
 # hello-world
-The well-known time-honoured tradition
+The well-known time-honoured tradition.
 
-Well, as part of the tradition of computer programming...
-Greetings! SpectreTerminal here, and I don't know what to really say about myself...
+Well, as part of the tradition of computer programming...  
+Greetings! I'm Benson, or **SpectreTerminal** on Github. I enjoy software application development and learning new frameworks.  
+Nothing special on here... yet.
